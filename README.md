@@ -72,7 +72,7 @@ To demonstrate **real SRE and Cloud Engineering practices**, including:
 - Kubernetes networking and access control on AWS
 - Practical debugging using Honeycomb and MCP tooling
 
-This project reflects **production-level thinking**, not tutorial shortcuts.
+
 
 ---
 
